@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9de37669-a5bf-4fea-90ea-e3650d8d211a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo.js" afterPath="$PROJECT_DIR$/demo.js" />
-    </list>
+    <list default="true" id="9de37669-a5bf-4fea-90ea-e3650d8d211a" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -27,17 +25,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demo.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="demo.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="618" column="13" lean-forward="true" selection-start-line="618" selection-start-column="13" selection-end-line="618" selection-end-column="13" />
+            <state relative-caret-position="450">
+              <caret line="30" column="34" lean-forward="true" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demo.a7e43021.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="demo.a7e43021.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo.a7e43021.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -51,8 +49,8 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>react</find>
       <find>github</find>
+      <find>react</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -137,12 +135,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1491705380175</updated>
-      <workItem from="1491705384905" duration="285000" />
+      <workItem from="1491705384905" duration="335000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="285000" />
+    <option name="totallyTimeSpent" value="335000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -177,6 +175,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="34" lean-forward="true" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -189,14 +195,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="3092" lean-forward="false" selection-start-line="0" selection-start-column="3086" selection-end-line="0" selection-end-column="3092" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="618" column="13" lean-forward="true" selection-start-line="618" selection-start-column="13" selection-end-line="618" selection-end-column="13" />
           <folding />
         </state>
       </provider>
